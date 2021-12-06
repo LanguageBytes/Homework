@@ -2,17 +2,15 @@
 
 Please see below for an explanation of the changes I have made.
 
-## Adding Alt Text
+## Adding in Semantic HTML elements
 
-1. 
-
-### 
-
-Acceptance criteria are the requirements that must be met to complete a user story. They define the boundaries of the user story and are used to confirm when a story is completed.
-
-These criteria can be thought of as instructions for how you should complete a homework assignment. As you plan how to build the application, use them to structure your pages and pseudocode your logic. As you’re working, look back at the list of acceptance criteria to make sure you’ve met all of them. An application is complete only when it meets all of these criteria.
-
-### Review
+In the HTML documents I added in the elements <nav> <section> <article> and <aside>. 
 
 
-# Homework Task 1
+### Adding in Alt Text
+
+I added in alt text in order to meet accecibility standards. 
+
+### How I Found This Task
+
+Overall, this task was ok. I feel I may have missed something important. I had to do some research into SEO as I am not confident in what the standards are. When reading about HTML5 semantic  elements, I was slightly confused about when I would use <article> and when to use <section>?
