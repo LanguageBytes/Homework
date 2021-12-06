@@ -4,7 +4,7 @@ Please see below for an explanation of the changes I have made.
 
 ## Adding in Semantic HTML elements
 
-In the HTML documents I added in the elements <nav> <section> <article> and <aside>. 
+ In order to make the webpage more informative and adaptable, I have substituted <div> where possible for semantic elements <nav> <section> <article> and <aside> in the HTML document. 
 
 
 ### Adding in Alt Text
