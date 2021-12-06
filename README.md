@@ -2,12 +2,11 @@
 
 Please see below for an explanation of the changes I have made.
 
-## Adding in Semantic HTML elements
+## Added Semantic HTML elements
 
- In order to make the webpage more informative and adaptable, I have substituted <div> where possible for semantic elements <nav> <section> <article> and <aside> in the HTML document. 
+ In order to make the webpage more informative and adaptable, I have substituted <div> where possible for semantic elements such as <nav> <section> <article> <figure> and <aside> in the HTML document. This will make the document more readable for other developers and improve SEO by allowing browsers and search engines to better interpret content.
 
-
-### Adding in Alt Text
+### Added Alt Text
 
 I added in alt text in order to meet accecibility standards. 
 
