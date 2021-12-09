@@ -12,10 +12,11 @@ I added in alt text in order to meet accessibility standards. I tried to be desc
 
 ### SEO 
 
+In order to improve SEO, I added in a meta description tag so which will appear when the website is featured in search results or sent as a link. I chose to make the title of the page the name of the organisation so that it is clear for the user.
 
 ### Responsive Design
 
-In order to make sure that the website would suit all browsers I added in a meta viewport tag in the head section and added in media query in the css. This should prevent the formatting from changing on smaller screens.
+In order to make sure that the website would fit all browsers I added in a meta viewport tag in the head section and added in media query in the css. This should prevent the formatting from becoming corrupted on smaller screens. 
 
 ### Checking Links
 
