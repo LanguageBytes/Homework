@@ -1,6 +1,6 @@
 # Commentary of Changes Made
 
-Please see below for an explanation of the changes I have made. LlLLALALALLAL
+Please see below for an explanation of the changes I have made.
 
 ## Added Semantic HTML elements
 
@@ -8,7 +8,11 @@ Please see below for an explanation of the changes I have made. LlLLALALALLAL
 
 ### Added Alt Text
 
-I added in alt text in order to meet accessibility standards. I tried to be descriptive when talking about the pictures whilst keeping under 125 characters. I am still not sure about SEO. On the one hand, adding details about the image could provide a richer, more inclusive experience for those with visual imparements using screen readers, but on the other hand, I had read that alt text needs to be consise and keyword stuffing must be avoided to avoid Google Penalties. Moreover, I was not sure how to best to describe the icon images.
+I added in alt text in order to meet accessibility standards. I tried to be descriptive when talking about the pictures whilst keeping under 125 characters. I am still not sure about SEO. On the one hand, adding details about the image could provide a richer, more inclusive experience for those with visual imparements using screen readers, but on the other hand, I had read that alt text needs to be consise and keyword stuffing must be avoided to avoid Google Penalties. I was also not sure how to best to describe the icon images.
+
+### Responsive Design
+
+
 
 ### Checking Links
 
