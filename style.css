@@ -207,3 +207,23 @@ p {
     font-size: 20px;
 }
 
+@media screen and (max-width: 600px) {
+     body {
+      width: 200%;
+      height: 200%
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    body {
+     width: 200%;
+     height: 250%
+   }
+ }
+
+ @media screen and (max-width: 1400px) {
+    body {
+     width: 250%;
+     height: 250%
+   }
+ }
