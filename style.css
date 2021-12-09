@@ -17,7 +17,6 @@ body {
 }
 
 .header h1 {
-    display: flex;
     font-size: 48px;
 }
 
@@ -209,21 +208,21 @@ p {
 
 @media screen and (max-width: 600px) {
      body {
-      width: 200%;
-      height: 200%
+      width: 300%;
+      height: 300%
     }
   }
 
   @media screen and (max-width: 800px) {
     body {
-     width: 200%;
-     height: 250%
+     width: 300%;
+     height: 300%
    }
  }
 
  @media screen and (max-width: 1400px) {
     body {
-     width: 250%;
-     height: 250%
+     width: 300%;
+     height: 300%
    }
  }
