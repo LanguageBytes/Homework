@@ -8,6 +8,12 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Default Text */
+p {
+    font-size: 18px;
+    flex: 1 0 200px;
+}
+
 /* Header */
 .header {
     padding: 20px;
@@ -70,11 +76,6 @@ a {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-p {
-    font-size: 18px;
-    flex: 1 0 200px;
 }
 
 .float-left {
@@ -156,7 +157,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Aside Headings*/
+/* Aside Headings */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -210,7 +211,7 @@ p {
     max-width: 150px;
 }
 
-/* Inserting Footer */
+/* Footer */
 .footer1 {
     padding: 30px;
     clear: both;
@@ -226,7 +227,7 @@ p {
 @media screen and (max-width: 600px) {
     body {
      width: 400%;
-     height: 100%
+     height: 100%;
    }
  }
 
