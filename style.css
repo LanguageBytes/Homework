@@ -65,6 +65,13 @@ a {
 
 
 /* Article Layout */
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 p {
     font-size: 16px;
     flex: 1 0 200px;
@@ -80,11 +87,6 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -125,7 +127,7 @@ p {
     max-height: 200px;
 }
 
-/* Section Headings */
+/* Article Headings */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px; 
@@ -202,6 +204,7 @@ p {
     max-width: 150px;
 }
 
+/* Inserting Footer */
 .footer1 {
     padding: 30px;
     clear: both;
@@ -213,7 +216,7 @@ p {
     font-size: 20px;
 }
 
-/* Altering the Screen  */
+/* Altering the screen dimensions for different devices */
 @media screen and (max-width: 600px) {
     body {
      width: 400%;
