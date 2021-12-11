@@ -225,23 +225,3 @@ a {
 
 /* Altering the screen dimensions for different devices */
 /* For Small Screens */
-@media screen and (max-width: 600px) {
-    body {
-     width: 400%;
-     height: 100%;
-   }
- }
-/* For Medium Screens */
- @media screen and (max-width: 800px) {
-   body {
-    width: 400%;
-    height: 100%
-  }
-}
-/* For Large Screens */
-@media screen and (max-width: 1400px) {
-   body {
-    width: 300%;
-    height: 100%
-  }
-}
