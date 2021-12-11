@@ -18,10 +18,10 @@ To provide clarity for other developers accessing the code, I added comments to 
 
 ## An attempt... :) at Responsive Design
 
-In order to make sure that the website would fit all browsers I added in a meta viewport tag in the head section and attempted :) to add in media queries to the CSS. In theory, this should have helped prevent the formating from becoming corrupted on smaller screens. However, I did not succeed this time with flexbox unfortunately :). Instead, at the moment, the smaller devices will show a zoomable full screen  (see phone screenshot below) as opposed to the original which had the text and pictures overlapping. If I were to redo this task I would focus on this aspect so that the smaller screens had a column design. I added in a reset.css file to try to counteract any default formatting in the browser.
+In order to make sure that the website would fit all browsers I added in a meta viewport tag in the head section and attempted :) to add in media queries to the CSS. In theory, this should have helped prevent the formating from becoming corrupted on smaller screens. However, I did not succeed this time with flexbox unfortunately :). Instead, at the moment, the smaller devices will show a full but zoomable full screen (see phone screenshots below) as opposed to the original which had the text and pictures overlapping. If I were to redo this task I would focus on this aspect so that the smaller screens had a column design. I added in a reset.css file to try to counteract any default formatting in the browser.
 
-![Test Image 1](screenshots/test.png)
-![Test Image 3](screenshots/test-3.png)
+Before ![Test Image 5](screenshots/test-5.png)
+After ![Test Image 3](screenshots/test-3.png)
 
 ## Checking Links 
 
