@@ -2,7 +2,7 @@
 
 Please see below for a description of the changes made to the code and see the following deployed page https://languagebytes.github.io/Horiseon-Social-Solution-Services/ .
 
-![Test Image 1](screenshots/Test2.png)
+![TestImage](screenshots/Test2.png)
 
 ## Semantic HTML elements and SEO
 
